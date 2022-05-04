@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node main.js PORT=5050"
+    "start": "node main.js PORT=5050",
+    "dev": "nodemon main.js PORT=5050"
   },
   "keywords": [],
   "author": "",
